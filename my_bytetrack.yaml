@@ -1,0 +1,15 @@
+tracker_type: bytetrack
+
+track_high_thresh: 0.5
+track_low_thresh: 0.1
+new_track_thresh: 0.6
+
+# KEEP TRACKS ALIVE LONGER
+track_buffer: 120
+
+# Matching
+match_thresh: 0.8
+fuse_score: True
+
+# Frame rate
+frame_rate: 30
